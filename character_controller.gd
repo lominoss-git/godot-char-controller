@@ -1,6 +1,5 @@
 extends KinematicBody
 
-onready var head = $Head
 onready var ground_check = $GroundCheck
 
 export(float) var gravity = 27.5
